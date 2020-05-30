@@ -1,3 +1,3 @@
 #!/bin/bash
-name="abc"
-echo "Hello $name"
+name1="abc"
+echo "Hello $name1"
